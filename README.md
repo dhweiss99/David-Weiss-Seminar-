@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hey Dr. Beckman
 
 You can use the [editor on GitHub](https://github.com/dhweiss99/David-Weiss-Seminar-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
